@@ -1,0 +1,5 @@
+boto3
+pandas
+numpy
+tensorflow==2.13.0
+scikit-learn
